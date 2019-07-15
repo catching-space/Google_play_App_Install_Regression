@@ -1,5 +1,5 @@
 # Google_play_App_Install_Regression
----
+
 ## Task Objective
 - **Generate a prediction model, where target variable is "Installs".**
 - Model should be as simple as possible, but not simpler. 
